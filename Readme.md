@@ -1,7 +1,4 @@
 # Project 1
-**Group Members:**
-1. Vaishnavi Chilakamarthi, UFID: 99936597, vchilakamarthi@ufl.edu 
-2. Vanshika Mehrotra, UFID: 77239277 , vmehrotra@ufl.edu
 
 **Description**
 
